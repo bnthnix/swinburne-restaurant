@@ -1,0 +1,16 @@
+
+---------------------------------------
+ Menu List - RM872 Package
+---------------------------------------
+
+  1. Succulent Roast Suckling Pig Pieces & Barbecued Meat Platter
+  2. Deep Fried Prawns Coated with Shrimp Mousse
+  3. Imperial Bird’s Nest & Minced Chicken & Cured Ham bisque
+  4. Good Fortune Stewed Shiitake Mushrooms & Abalone
+  5. Crispy Deep Fried Chicken in Champagne Sauce
+  6. Steamed Fresh Fish with Ginger, Scallions & Soya Dressing
+  7. Red Bean Cream with Lotus Seeds & Lily Bulbs
+
+Would you like to confirm the menu selection?
+[1] Yes
+[2] No, I would like to reselect my menu

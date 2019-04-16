@@ -1,0 +1,4 @@
+venue:Pool Site&entertainments:Synchronised Swimming,Magic Performance,Live Band&cost:2200,650,1750
+venue:Banquet Hall&entertainments:Musical Performance,Ballet Performance,Magic Performance,Live Band&cost:1900,1600,650,1750
+venue:Chamber Hall&entertainments:Musical Performance,Ballet Performance,Magic Performance,Live Band&cost:1900,1600,650,1750
+venue:Concert Hall&entertainments:Musical Performance,Ballet Performance,Magic Performance,Live Band&cost:1900,1600,650,1750

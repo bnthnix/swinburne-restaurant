@@ -1,0 +1,8 @@
+
+--------------------------------------------------------------------------
+ Venue
+--------------------------------------------------------------------------
+
+  [1] VIP Room (10 persons)		[4] Banquet Hall (200 persons)
+  [2] Executive Room (30 persons)	[5] Chamber Hall (500 persons)
+  [3] Pool Site (50 persons)		[6] Concert Hall (1000 persons)

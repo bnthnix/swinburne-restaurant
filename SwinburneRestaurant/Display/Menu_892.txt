@@ -1,0 +1,16 @@
+
+---------------------------------------
+ Menu List - RM892 Vegetarian Package
+---------------------------------------
+
+  1. Bellinis madew ith chilled champagnea nd peachs chnapps
+  2. Mushroom Caps stuffed with spinach and cheese
+  3. Indian Somas with tamarind and mint chutney for dipping
+  4. Giant Wok Presentation of Stir Fry Vegetables
+  5. Ginger, Scallops & Egg White Fried Rice
+  6. Pasta Bar with Toppings
+  7. Lai Wah Passion Delights
+
+Would you like to confirm the menu selection?
+[1] Yes
+[2] No, I would like to reselect my menu

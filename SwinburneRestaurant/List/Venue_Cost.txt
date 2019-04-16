@@ -1,0 +1,6 @@
+name:VIP Room&max:1&cost:0
+name:Executive Room&max:3&cost:0
+name:Pool Site&max:5&cost:800
+name:Banquet Hall&max:20&cost:1000
+name:Chamber Hall&max:50&cost:1500
+name:Concert Hall&max:100&cost:1800

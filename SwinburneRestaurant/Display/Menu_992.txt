@@ -1,0 +1,16 @@
+
+---------------------------------------
+ Menu List - RM992 Package
+---------------------------------------
+
+  1. Pancetta Crisps with Goat Cheese and Pear
+  2. Chestnut Fennel Soup
+  3. Wilted Spinach Salad with Warm Apple Cider and Bacon Dressing
+  4. Butternut Squash Gnocchi with Sage Brown Butter
+  5. Smoked Cheddar Stuffed Chicken with Green Apple Slaw
+  6. Autumn Root Vegetable Puree
+  7. Creme Anglaise and Fresh Assorted Berries
+
+Would you like to confirm the menu selection?
+[1] Yes
+[2] No, I would like to reselect my menu

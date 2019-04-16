@@ -1,0 +1,16 @@
+
+---------------------------------------
+ Menu List - RM1122 Package
+---------------------------------------
+
+  1. Succulent Roast Suckling Pig Pieces, Garnished with Jellyfish
+  2. Deep Fried Crab Claw Coated with Shrimp Mousse
+  3. Sautéed Fresh Scallops in Supreme Sauce
+  4. Imperial Swallow’s Nest in Bouillon with Diced Seafood & Lobster
+  5. Ginger, Scallops & Egg White Fried Rice
+  6. Steamed Fresh Fish with Ginger, Scallions & Soya Dressing
+  7. Lai Wah Passion Delights
+
+Would you like to confirm the menu selection?
+[1] Yes
+[2] No, I would like to reselect my menu

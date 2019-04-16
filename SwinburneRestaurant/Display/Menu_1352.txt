@@ -1,0 +1,16 @@
+
+---------------------------------------
+ Menu List - RM1352 Package
+---------------------------------------
+
+  1. DoubleTree Selection of Cold Canapés & Hot Hors D’oeuvres
+  2. Succulent Roast Suckling Pig Pieces, Garnished with Jellyfish
+  3. Sautéed Jumbo Prawns & Fresh Scallops Presented in Potato Nest
+  4. Imperial Swallow’s Nest in Bouillon with Diced Seafood & Lobster
+  5. Good Fortune Steamed Seasonal Vegetables with Braised Abalone
+  6. Twin Fresh Braised Lobsters with Ginger and Scallions
+  7. Chocolate Truffles and Dipped Strawberries
+
+Would you like to confirm the menu selection?
+[1] Yes
+[2] No, I would like to reselect my menu

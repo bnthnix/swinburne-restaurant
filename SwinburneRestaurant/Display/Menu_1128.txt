@@ -1,0 +1,16 @@
+
+---------------------------------------
+ Menu List - RM1128 Vegetarian Package
+---------------------------------------
+
+  1. Kir Royal made with chilled champagne and cassis
+  2. Exotic Mushroom Skewer in ginger Hoisen marinade
+  3. Tomato, basil and mozzarellapetite tarts
+  4. Giant Wok Presentation of Stir Fry Vegetables
+  5. Lavish Tiered Fruit, Cheese and Vegetable Cruidite' Display
+  6. Giant Antipasto Display
+  7. Lai Wah Passion Delights
+
+Would you like to confirm the menu selection?
+[1] Yes
+[2] No, I would like to reselect my menu

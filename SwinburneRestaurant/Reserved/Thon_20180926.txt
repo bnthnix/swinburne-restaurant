@@ -1,0 +1,12 @@
+---------------------
+ Reservation Summary 
+---------------------
+Customer Name        : Pun Liang Thon
+Customer Contact No. : 0109690384
+No. of People        : 150
+No. of Table         : 15
+Venue                : Banquet Hall
+Package              : RM892.00 Package
+Add-On Entertainment : Musical Performance
+
+Total Price          : RM16280.00
