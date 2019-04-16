@@ -145,4 +145,3 @@ input("---Press any key to terminate the program---")
 #ideally this all has to have the _name thing, will do it after assignment submission
 #it is possible to make them all flexible by using textfile but
 #it will take another huge amount of time to do so
-#will try them also after submission
